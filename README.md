@@ -1,12 +1,9 @@
 [README.md](https://github.com/user-attachments/files/34007375/README.md)
 <div dir="rtl">
-
 # ⚡ DLX PRO TURBO
-
 </div>
-
 <p align="center">
-  <img src="media/hero.gif" alt="DLX PRO Turbo" width="560">
+  <img width="560" height="300" alt="hero" src="https://github.com/user-attachments/assets/4c012c10-c529-4cdf-829e-e1421965bbe2" />
 </p>
 
 <p align="center">
@@ -45,7 +42,7 @@
 - 🔄 **Auto-update** — the app checks this very repo, downloads & installs the new setup with one click
 
 <p align="center">
-  <img src="media/combo.gif" alt="Internet bonding" width="560"><br>
+  <img width="560" height="300" alt="combo" src="https://github.com/user-attachments/assets/376e8fd5-1500-44e0-bece-9a93f772e570" />
   <sub><b>Wi-Fi + USB = 🚀</b> — each segment can ride a different connection</sub>
 </p>
 
@@ -69,7 +66,8 @@
 </div>
 
 <p align="center">
-  <img src="media/download.gif" alt="Multisegment download" width="560"><br>
+ <img width="560" height="300" alt="download" src="https://github.com/user-attachments/assets/e36b0d1a-fd26-4823-a1a2-122975f56930" />
+
   <sub><b>Multisegment engine</b> — 8 segments, each on a different connection</sub>
 </p>
 
