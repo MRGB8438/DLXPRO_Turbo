@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34011546/README.md)
+[README.md](https://github.com/user-attachments/files/34011753/README.md)
 <p align="center">
   <img src="media/dlx-hero.gif" alt="DLX PRO Turbo" width="720">
 </p>
