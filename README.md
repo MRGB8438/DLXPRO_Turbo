@@ -118,7 +118,7 @@
 ## 📥 نصب — ۳۰ ثانیه‌ای
 
 1. برو به بخش [**Releases**](https://github.com/MRGB8438/DLXPRO_Turbo/releases)
-2. آخرین `DLX-PRO-Turbo-Setup-x.x.x.exe` رو دانلود کن
+2. آخرین `DLX-PRO-Turbo-Setup-1.0.0.exe` رو دانلود کن
 3. اجرا کن → **Run as administrator** (برای قابلیت‌های شبکه، دسترسی ادمین لازمه)
 4. تمام! ابزارها (yt-dlp و FFmpeg) دفعه‌ی اول خودکار نصب می‌شن
 
@@ -186,7 +186,7 @@
 - ⚡ **v2rayNG, hotspot, remote control, usage reports, Windows network tweaks**
 - 🔄 **Auto-update** straight from this repo
 
-**Install:** grab the latest `DLX-PRO-Turbo-Setup-x.x.x.exe` from [Releases](https://github.com/MRGB8438/DLXPRO_Turbo/releases) and run it as administrator.
+**Install:** grab the latest `DLX-PRO-Turbo-Setup-1.0.0.exe` from [Releases](https://github.com/MRGB8438/DLXPRO_Turbo/releases) and run it as administrator.
 
 ## 📜 License
 
@@ -194,6 +194,14 @@ Free for personal use. Made with ⚡ and ☕.
 
 <p align="center">
   <img src="media/dlx-hero.gif" alt="DLX PRO Turbo" width="360"><br>
+
   <b>DLX PRO TURBO</b> — <i>Downloads on Turbo Juice 🚀</i><br>
-  <sub>⭐ اگه خوشت اومد یه Star بزن — انگیزه‌ی ما هم توربو می‌شه! ⭐</sub>
+### 🤖 ساخته‌شده با هوش مصنوعی | AI-Powered
+
+از ایده تا پیاده‌سازی نهایی، DLX PRO Turbo با کمک هوش مصنوعی توسعه داده شده است. 🤖🛠️
+
+From idea to implementation, DLX PRO Turbo was built with the power of AI. 🚀
+
+**ساخته‌شده با خلاقیت، قدرت‌گرفته از هوش مصنوعی.** ⚡
+**Built with creativity, powered by AI.** ⚡  <sub>⭐ اگه خوشت اومد یه Star بزن — انگیزه‌ی ما هم توربو می‌شه! ⭐</sub>
 </p>
